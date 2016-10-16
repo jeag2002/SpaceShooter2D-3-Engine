@@ -1,0 +1,1461 @@
+# depslib dependency file v1.0
+1319489074 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\configfile.cpp
+	"ConfigFile.h"
+
+1319489095 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\configfile.h
+	<string>
+	<map>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1457905309 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\gamelevelnew.cpp
+	"GameLevelNew.h"
+
+1457647136 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\gamelevelnew.h
+	"Stdafx.h"
+	"GLTile.h"
+	"GLEntityNew.h"
+	"GLCollision.h"
+	"GLRole.h"
+	"GLImageDef.h"
+	"GLObjectManagerNew.h"
+
+1459266762 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\stdafx.h
+	<windows.h>
+	<process.h>
+	<stddef.h>
+	<tchar.h>
+	<gl/glew.h>
+	<pthread.h>
+	"GLES/gl.h"
+	"GLES/egl.h"
+	"GLES/glext.h"
+	"GLES/glplatform.h"
+	<GLES3/gl3.h>
+	<EGL/egl.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<SDL_gfx.h>
+	"SDL13/SDL/SDL.h"
+	"SDL13/SDL/SDL_image.h"
+	"SDL13/SDL/SDL_mixer.h"
+	"SDL13/SDL/SDL_ttf.h"
+	<SDL.h>
+	<SDL_opengles.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<lua.h>
+	<lualib.h>
+	<lauxlib.h>
+	<string>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<queue>
+	<time.h>
+	<algorithm>
+	"Utils.h"
+	"LogEngine.h"
+	"MemManagerNew.h"
+	"Excepctions.h"
+
+1332397430 c:\workspaces\libs\ogles-winx86-em-1.5\builds\ogles\include\gles\gl.h
+	<GLES/glplatform.h>
+
+1332397430 c:\workspaces\libs\ogles-winx86-em-1.5\builds\ogles\include\gles\glplatform.h
+	<KHR/khrplatform.h>
+
+1332397430 c:\workspaces\libs\ogles-winx86-em-1.5\builds\ogles\include\khr\khrplatform.h
+	<e32def.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1332397430 c:\workspaces\libs\ogles-winx86-em-1.5\builds\ogles\include\egl\egl.h
+	<EGL/eglplatform.h>
+
+1332397430 c:\workspaces\libs\ogles-winx86-em-1.5\builds\ogles\include\egl\eglplatform.h
+	<KHR/khrplatform.h>
+	<windows.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<android/native_window.h>
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1438214850 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\close_code.h
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940796 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394940798 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_opengles.h
+	<OpenGLES/ES1/gl.h>
+	<OpenGLES/ES1/glext.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+
+1332397430 c:\workspaces\libs\ogles-winx86-em-1.5\builds\ogles\include\gles\glext.h
+
+1376159942 c:\workspaces\libs\sdl_2.0.3\sdl2_image-devel-2.0.0-mingw\sdl2_image-2.0.0\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376160026 c:\workspaces\libs\sdl_2.0.3\sdl2_mixer-devel-2.0.0-mingw\sdl2_mixer-2.0.0\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376160144 c:\workspaces\libs\sdl_2.0.3\sdl2_ttf-devel-2.0.12-mingw\sdl2_ttf-2.0.12\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1218015012 c:\workspaces\libs\lua51\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1219923576 c:\workspaces\libs\lua51\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1198753344 c:\workspaces\libs\lua51\include\lualib.h
+	"lua.h"
+
+1198753344 c:\workspaces\libs\lua51\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1458997382 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\globalnew.h
+
+1459676917 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\logengine.h
+	"Stdafx.h"
+
+1457792753 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\memmanagernew.h
+	<vector>
+	<map>
+	<queue>
+	"GLTile.h"
+	"GLDynamicEntityNew.h"
+	"GLCollision.h"
+	"GLRole.h"
+	"GLImageDef.h"
+	"GLState.h"
+	"GLEntityDefinition.h"
+	"EventMsg.h"
+	"GLLuaScript.h"
+	"GLSoundFile.h"
+	"TiffEngine.h"
+	"GLAnimationDesc.h"
+	"GLParticleDesc.h"
+	"LogEngine.h"
+	"SDLTextureContainer.h"
+
+1452040961 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glstate.h
+	"Stdafx.h"
+	"EventMsg.h"
+
+1452729243 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\gltile.h
+	"GlobalNew.h"
+	<string>
+	<vector>
+
+1458078964 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glentitynew.h
+	"GlobalNew.h"
+	"GLTile.h"
+
+1458090213 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glentitydefinition.h
+	"Stdafx.h"
+
+1458419874 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\eventmsg.h
+
+1453757630 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\gamenew.cpp
+	"GameNew.h"
+
+1452289712 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\gamenew.h
+	"Stdafx.h"
+	"GLGameLogic.h"
+	"GLObjectManagerNew.h"
+	"GameLevelNew.h"
+	"GLRenderNew.h"
+	"GLCameraNew.h"
+	"ClockEngine.h"
+	"GLState.h"
+	"GLHud.h"
+
+1458172984 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glgamelogic.h
+	"Stdafx.h"
+	"GLCameraNew.h"
+	"GLLuaScript.h"
+	"GLDynamicEntityNew.h"
+	"GLCollision.h"
+	"GLCollisionScript.h"
+	"GLIAScript.h"
+	"GLAnimationScript.h"
+	"GLGamePlayScript.h"
+
+1457905807 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\globjectmanagernew.h
+	"Stdafx.h"
+	"GLObjectManagerTile.h"
+	"GLObjectManagerPlayer.h"
+	"GLObjectManagerEnemy.h"
+
+1450868957 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glrendernew.h
+	"Stdafx.h"
+	"GLCameraNew.h"
+	"GLRenderNewGL11.h"
+
+1454457528 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glcameranew.h
+	"Stdafx.h"
+
+1468278953 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\clockengine.h
+	"Stdafx.h"
+
+1458689810 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glcameranew.cpp
+	"GLCameraNew.h"
+
+1458090264 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glentitydefmanager.cpp
+	"GLEntityDefManager.h"
+
+1450534801 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glentitydefmanager.h
+	"Stdafx.h"
+	"GLEntityDefinition.h"
+	"ConfigFile.h"
+	"GLImageDef.h"
+
+1444583411 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glentitynew.cpp
+	"GLEntityNew.h"
+
+1459679492 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glgamelogic.cpp
+	"GLGameLogic.h"
+
+1454448427 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glimage.cpp
+	"GLImage.h"
+
+1454447294 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glimagefactorymanager.cpp
+	"GLImageFactoryManager.h"
+
+1446245651 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glinitparamengine.cpp
+	"GLInitParamEngine.h"
+
+1446241947 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glinitparamengine.h
+	"Stdafx.h"
+
+1458596236 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\gllaunchsystemsgl11.cpp
+	"GLLaunchSystemsGL11.h"
+
+1458422031 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\gllaunchsystemsgl11.h
+	"Stdafx.h"
+
+1445282093 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\globalnew.cpp
+	"GlobalNew.h"
+
+1457905751 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\globjectmanagernew.cpp
+	"GLObjectManagerNew.h"
+
+1449607241 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glrendernew.cpp
+	"GLRenderNew.h"
+
+1458594601 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glstatemanager.cpp
+	"GLStateManager.h"
+
+1459677862 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\logengine.cpp
+	"LogEngine.h"
+
+1445882694 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\luamotor.cpp
+	"LuaMotor.h"
+	<lua.h>
+	<lualib.h>
+	<lauxlib.h>
+
+1445799212 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\luamotor.h
+	"Stdafx.h"
+
+1453513468 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\main.cpp
+	"Main.h"
+
+1453512487 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\main.h
+	"Stdafx.h"
+	"GLIO.h"
+	"GLInit.h"
+	"GLStateManager.h"
+	"GLLaunchSystems.h"
+	"GLInitParamEngine.h"
+
+1457215933 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glinit.h
+	"Stdafx.h"
+	"ConfigFile.h"
+	"GLEntityDefManager.h"
+	"GLImageFactoryManager.h"
+	"GLLuaScriptManager.h"
+	"GLStateDefManager.h"
+	"GLSoundManager.h"
+	"TiffDefManager.h"
+	"GLAnimEntityDefManager.h"
+	"GLAnimParticleDefManager.h"
+
+1450871544 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glimagefactorymanager.h
+	"Stdafx.h"
+	"ConfigFile.h"
+	"Image.h"
+	"GLImageDef.h"
+
+1448054505 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glluascriptmanager.h
+	"Stdafx.h"
+	"ConfigFile.h"
+	"GLLuaScript.h"
+
+1446080840 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glstatedefmanager.h
+	"Stdafx.h"
+	"ConfigFile.h"
+	"GLStateManager.h"
+	"GameNew.h"
+
+1452039703 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glstatemanager.h
+	"Stdafx.h"
+	"GameNew.h"
+
+1457792633 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\memmanagernew.cpp
+	"MemManagerNew.h"
+
+1445824306 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\resource.rc
+
+1454447007 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glimage.h
+	"Stdafx.h"
+	"GLImageDef.h"
+
+1459682888 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glinit.cpp
+	"GLInit.h"
+
+1451446513 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glstatedefmanager.cpp
+	"GLStateDefManager.h"
+
+1447194429 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glsoundmanager.h
+	"Stdafx.h"
+	"GLSoundFile.h"
+	"ConfigFile.h"
+
+1451383068 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glluascriptmanager.cpp
+	"GLLuaScriptManager.h"
+
+1452211458 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glluascript.h
+	<lua.h>
+	<lualib.h>
+	<lauxlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<map>
+	<tuple>
+	<vector>
+	<string>
+	<cstring>
+
+1453513989 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glluascript.cpp
+	"GLLuaScript.h"
+
+1447204666 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glsoundfile.h
+	"Stdafx.h"
+
+1446896619 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\excepctions.h
+
+1240322244 c:\workspaces\workcodeblocks\gph_sdk\dge\include\gles\gl.h
+	<GLES/glplatform.h>
+
+1240322244 c:\workspaces\workcodeblocks\gph_sdk\dge\include\gles\glplatform.h
+	<KHR/khrplatform.h>
+
+1241609404 c:\workspaces\workcodeblocks\gph_sdk\dge\include\khr\khrplatform.h
+	<e32def.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1240322244 c:\workspaces\workcodeblocks\gph_sdk\dge\include\gles\egl.h
+	<EGL/egl.h>
+	<GLES/gl.h>
+
+1240322230 c:\workspaces\workcodeblocks\gph_sdk\dge\include\egl\egl.h
+	<EGL/eglplatform.h>
+
+1259051944 c:\workspaces\workcodeblocks\gph_sdk\dge\include\egl\eglplatform.h
+	<KHR/khrplatform.h>
+	<windows.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+
+1257340836 c:\workspaces\workcodeblocks\gph_sdk\dge\include\gles\glext.h
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_amiga.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_platform.h
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_config_amiga.h
+	"SDL_platform.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_config_macosx.h
+	"SDL_platform.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_config_os2.h
+	"SDL_platform.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1260435650 c:\workspaces\workcodeblocks\gph_sdk\dge\include\begin_code.h
+
+1260435650 c:\workspaces\workcodeblocks\gph_sdk\dge\include\close_code.h
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1261116408 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_keysym.h
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"pollux_fb_ioctl.h"
+	"close_code.h"
+
+1260435650 c:\workspaces\workcodeblocks\gph_sdk\dge\include\pollux_fb_ioctl.h
+	"pollux_fb_cfg.h"
+
+1260435650 c:\workspaces\workcodeblocks\gph_sdk\dge\include\pollux_fb_cfg.h
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_types.h
+	"SDL_stdinc.h"
+
+1260435348 c:\workspaces\workcodeblocks\gph_sdk\dge\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"SDL_compat.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\begin_code.h
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\close_code.h
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_keysym.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"SDL_revision.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_revision.h
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_compat.h
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_types.h
+	"SDL_stdinc.h"
+
+1260795420 c:\workspaces\workcodeblocks\gph_sdk\include\sdl13\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1218018612 c:\workspaces\workcodeblocks\gph_sdk\include\lua51\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1219927176 c:\workspaces\workcodeblocks\gph_sdk\include\lua51\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1198756944 c:\workspaces\workcodeblocks\gph_sdk\include\lua51\lualib.h
+	"lua.h"
+
+1198756944 c:\workspaces\workcodeblocks\gph_sdk\include\lua51\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1451446554 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glsoundmanager.cpp
+	"GLSoundManager.h"
+
+1430890394 c:\workspaces\libs\native_sdk-3.5\builds\include\gles\gl.h
+	<GLES/glplatform.h>
+
+1430890394 c:\workspaces\libs\native_sdk-3.5\builds\include\gles\glplatform.h
+	<KHR/khrplatform.h>
+
+1430890394 c:\workspaces\libs\native_sdk-3.5\builds\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1430890394 c:\workspaces\libs\native_sdk-3.5\builds\include\gles\egl.h
+	<EGL/egl.h>
+	<GLES/gl.h>
+
+1430890394 c:\workspaces\libs\native_sdk-3.5\builds\include\egl\egl.h
+	<EGL/eglplatform.h>
+
+1430890394 c:\workspaces\libs\native_sdk-3.5\builds\include\egl\eglplatform.h
+	<KHR/khrplatform.h>
+	<windows.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<android/native_window.h>
+
+1430890394 c:\workspaces\libs\native_sdk-3.5\builds\include\gles\glext.h
+
+1430890394 c:\workspaces\libs\native_sdk-3.5\builds\include\gles3\gl3.h
+	<GLES3/gl3platform.h>
+	<KHR/khrplatform.h>
+
+1430890394 c:\workspaces\libs\native_sdk-3.5\builds\include\gles3\gl3platform.h
+	<KHR/khrplatform.h>
+
+1344250748 c:\workspaces\libs\glew-win32\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1458175164 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glcollision.h
+	"GlobalNew.h"
+
+1452026351 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glrole.h
+	"Stdafx.h"
+	"GLEntityNew.h"
+
+1458593702 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glrendernewgl11.h
+	"Stdafx.h"
+	"GLCameraNew.h"
+	"GLTile.h"
+	"GLHud.h"
+	"Image.h"
+	"GLCollision.h"
+	"GLRenderStaticLevelGL11.h"
+	"GLRenderDynamicLevelGL11.h"
+	"GLPolygonGL11.h"
+	"GLCursor.h"
+
+1459681073 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glrendernewgl11.cpp
+	"GLRenderNewGL11.h"
+
+1468277975 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glhud.h
+	"Stdafx.h"
+	"GLDynamicEntityNew.h"
+	"GLImageDef.h"
+
+1457263837 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glimagedef.h
+	"GlobalNew.h"
+
+1450639802 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\gllaunchsystems.h
+	"Stdafx.h"
+	"GLLaunchSystemsGL11.h"
+
+1450821576 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\globjectmanagertile.h
+	"Stdafx.h"
+	"GLEntityDefinition.h"
+	"GLTile.h"
+
+1457905382 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\globjectmanagerplayer.h
+	"Stdafx.h"
+	"GLEntityDefinition.h"
+	"GLDynamicEntityNew.h"
+
+1450821132 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\globjectmanagerenemy.h
+	"Stdafx.h"
+
+1450823317 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\globjectmanagerenemy.cpp
+	"GLObjectManagerEnemy.h"
+
+1458090665 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\globjectmanagerplayer.cpp
+	"GLObjectManagerPlayer.h"
+
+1452729483 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\globjectmanagertile.cpp
+	"GLObjectManagerTile.h"
+
+1453757256 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glrenderstaticlevelgl11.h
+	"Stdafx.h"
+	"GLCameraNew.h"
+	"GLTile.h"
+
+1451695620 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glrenderdynamiclevelgl11.h
+	"Stdafx.h"
+	"GLCameraNew.h"
+	"GLDynamicEntityNew.h"
+
+1454445823 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glrenderdynamiclevelgl11.cpp
+	"GLRenderDynamicLevelGL11.h"
+
+1454372346 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glrenderstaticlevelgl11.cpp
+	"GLRenderStaticLevelGL11.h"
+
+1451853102 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\image.h
+	"Stdafx.h"
+	"SDLImagen.h"
+	"GLImage.h"
+	"Stdafx.h"
+
+1451853088 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\sdlimagen.h
+	"Stdafx.h"
+	"GLImageDef.h"
+
+1450874913 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\sdlimagen.cpp
+	"SDLImagen.h"
+
+1450875745 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\sdltexturecontainer.h
+	<SDL.h>
+	<SDL_image.h>
+
+1458604647 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\gldynamicentitynew.h
+	"GLEntityNew.h"
+
+1458604756 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\gldynamicentitynew.cpp
+	"GLDynamicEntityNew.h"
+
+1468278827 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glhud.cpp
+	"GLHud.h"
+
+1451440584 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\tiffengine.h
+	"GlobalNew.h"
+	<SDL.h>
+	<SDL_ttf.h>
+
+1451446446 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\tiffdefmanager.cpp
+	"TiffDefManager.h"
+
+1451445888 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\tiffdefmanager.h
+	"Stdafx.h"
+	"TiffEngine.h"
+	"ConfigFile.h"
+
+1451440960 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\tiffengine.cpp
+	"TiffEngine.h"
+
+1458693107 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\utils.h
+	"GlobalNew.h"
+	<cmath>
+
+1458172492 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glcollisionscript.h
+	"Stdafx.h"
+	"GLLuaScript.h"
+
+1452202693 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\gliascript.h
+	"Stdafx.h"
+
+1452202764 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glanimationscript.h
+	"Stdafx.h"
+
+1452202810 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glgameplayscript.h
+	"Stdafx.h"
+
+1458176053 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glcollisionscript.cpp
+	"GLCollisionScript.h"
+
+1458997499 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glio.h
+	"Stdafx.h"
+
+1456663216 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glpolygongl11.h
+	"Stdafx.h"
+	"GLCameraNew.h"
+
+1456782518 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glpolygongl11.cpp
+	"GLPolygonGL11.h"
+
+1457262421 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glanimentitydefmanager.h
+	"Stdafx.h"
+
+1457293688 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glanimparticledefmanager.h
+	"Stdafx.h"
+	"ConfigFile.h"
+
+1457211746 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glanimationdesc.h
+
+1457292834 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glparticledesc.h
+	<SDL.h>
+
+1457214698 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glanimentitydefmanager.cpp
+	"GLAnimEntityDefManager.h"
+
+1457293708 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glanimparticledefmanager.cpp
+	"GLAnimParticleDefManager.h"
+
+1458593294 c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glcursor.h
+	"Stdafx.h"
+
+1458691264 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded3\glcursor.cpp
+	"GLCursor.h"
+
+1338124690 c:\workspaces\libs\pthreads-w32-2-9-1-release\pre-built.2\include\pthread.h
+	<windows.h>
+	"config.h"
+	<time.h>
+	<signal.h>
+	<limits.h>
+	"need_errno.h"
+	<errno.h>
+	<sched.h>
+	<sys/types.h>
+
+1309341964 c:\workspaces\libs\pthreads-w32-2-9-1-release\pre-built.2\include\sched.h
+	"need_errno.h"
+	<errno.h>
+	<sys/types.h>
+	<time.h>
+

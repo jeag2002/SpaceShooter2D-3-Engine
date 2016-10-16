@@ -1,0 +1,7 @@
+//http://www.dreamincode.net/forums/topic/233899-add-icon-to-exe-wcodeblocks/
+
+#ifndef _resource_rc
+#define _resource_rc
+MAINICON ICON "data/asserts/sinistar.ico"
+#endif
+

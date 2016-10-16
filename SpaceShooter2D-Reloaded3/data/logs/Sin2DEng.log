@@ -1,0 +1,255 @@
+
+[INFO]  (16/10/2016 - 12:12:47) -  - LogEngine - INITIALIZED! to [IDLE]   Channel [FILE] 
+[INFO]  (16/10/2016 - 12:12:47) -  - GLLuaScriptManager::loadLuaLibraries --> LUA LIBRARIES UPLOADED
+[INFO]  (16/10/2016 - 12:12:47) -  - GLInit::processGlobalFileInit --> GLOBAL PARAMETERS LOADED
+[INFO]  (16/10/2016 - 12:12:47) -  - GLInitParamEngine::InitParamEngine --> STARTUP  ARGS (1) 
+[WARN]  (16/10/2016 - 12:12:47) -  - GLInitParamEngine::InitParamEngine --> NO HAY PARAMETROS DE ENTRADA
+[DEBUG] (16/10/2016 - 12:12:47) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> SDL 2.0 ENGINE CONFIGURED
+[DEBUG] (16/10/2016 - 12:12:47) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> SDL IMAGE 2.0 ENGINE CONFIGURED
+[DEBUG] (16/10/2016 - 12:12:47) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> SDL TTF 2.0 ENGINE CONFIGURED
+[DEBUG] (16/10/2016 - 12:12:47) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> SDL MIX/AUDIO 2.0 ENGINE CONFIGURED
+[DEBUG] (16/10/2016 - 12:12:47) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> DISPLAY(0) (1920 x 1080) @ 24 bpp SDL_PIXELFORMAT_RGB888
+[DEBUG] (16/10/2016 - 12:12:47) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 VENDOR [Imagination Technologies (Host GL: `Intel`)]
+[DEBUG] (16/10/2016 - 12:12:47) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 VERSION [OpenGL ES-CM 1.1 ]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 RENDER VERSION [PowerVR PVRVFrame 6.2 SGX (Host GL: `Intel(R) HD Graphics 4600`) SDK Build: 2.06.26.0641]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_byte_coordinates]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_fixed_point]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_query_matrix]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_single_precision]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_matrix_get]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_read_format]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_IMG_read_format]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_point_sprite]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_query_matrix]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_texture_env_crossbar]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_texture_mirrored_repeat]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_blend_substract]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_blend_func_separate]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_blend_equation_separate]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_stencil_wrap]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_extended_matrix_palette]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_vertex_half_float]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_compressed_ETC1_RGB8_texture]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_compressed_paletted_texture]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_depth24]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_depth_texture]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_texture_float]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_texture_half_float]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_texture_cube_map]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_rgb8_rgba8]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_stencil8]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_fragment_precision_high]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_element_index_uint]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_IMG_texture_compression_pvrtc]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_framebuffer_object]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_mapbuffer]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_matrix_palette]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_point_size_array]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_OES_draw_texture]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_EXT_multi_draw_arrays]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 SUPPORTED EXTENSION [GL_IMG_texture_format_BGRA8888]
+[INFO]  (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> OPENGL ES 1.1 CONFIGURED
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESSystems --> CONFIGURE ACT PLAYER [1]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::processResourcesFilesInit --> PROCESS IMAGE DEFINITION
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [1]-[BACK_1] TYPE [BMP] PATH [./data/asserts/sin24_a.bmp] OPENGL-ID (1)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [2]-[MAP_1] TYPE [BMP] PATH [./data/asserts/mapa_2.bmp] OPENGL-ID (2)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [3]-[PLAYER_1] TYPE [BMP] PATH [./data/asserts/player/Ship_1_Tot.bmp] OPENGL-ID (3)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [4]-[IDLE] TYPE [BMP] PATH [./data/asserts/IDLE.bmp] OPENGL-ID (4)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [5]-[BACK_2] TYPE [BMP] PATH [./data/asserts/background.bmp] OPENGL-ID (5)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [6]-[BACK_3] TYPE [BMP] PATH [./data/asserts/background6.bmp] OPENGL-ID (6)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [7]-[BACK_4] TYPE [BMP] PATH [./data/asserts/background4.bmp] OPENGL-ID (7)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [8]-[BACK_5] TYPE [BMP] PATH [./data/asserts/background5.bmp] OPENGL-ID (8)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [9]-[BACK_6] TYPE [BMP] PATH [./data/asserts/background13.bmp] OPENGL-ID (9)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [10]-[BURN_1] TYPE [BMP] PATH [./data/asserts/player/clonejet.bmp] OPENGL-ID (10)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [11]-[BURN_2] TYPE [BMP] PATH [./data/asserts/player/playerjet.bmp] OPENGL-ID (11)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [12]-[BURN_3] TYPE [BMP] PATH [./data/asserts/player/Burner3.bmp] OPENGL-ID (12)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [13]-[BURN_4] TYPE [BMP] PATH [./data/asserts/player/Burner4.bmp] OPENGL-ID (13)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [14]-[BURN_5] TYPE [BMP] PATH [./data/asserts/player/Burner5.bmp] OPENGL-ID (14)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [15]-[BURN_6] TYPE [BMP] PATH [./data/asserts/player/Burner6.bmp] OPENGL-ID (15)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [16]-[CURSOR_1] TYPE [BMP] PATH [./data/asserts/widgets/Crosshair1.bmp] OPENGL-ID (16)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImage::processTGA LOAD FILE ./data/asserts/console/panel.tga                                                                                                                                                                                                                                                                                                                                                                                
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> [17]-[PANEL_1] TYPE [TGA] PATH [./data/asserts/console/panel.tga] OPENGL-ID (17)
+[INFO]  (16/10/2016 - 12:12:48) -  - GLImageFactoryManager::processImageDefFile --> IMAGENES PROCESADAS (17)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::processResourcesFilesInit --> PROCESS LUA SCRIPT DEFINITION
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLuaScriptManager::processLuaDefFile --> SCRIPT COMPILADO CORRECTAMENTE ./data/scripts/simple.lua
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLuaScriptManager::processLuaDefFile --> SCRIPT ./data/scripts/simple.lua ID SCRIPT_1 FUNCTION double 
+[INFO]  (16/10/2016 - 12:12:48) -  - GLuaScriptManager::processLuaDefFile --> NUMERO FICHEROS SCRIPT CARGADOS (1)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::processResourcesFilesInit --> PROCESS STATE DESCRIPTION DEFINITION
+[INFO]  (16/10/2016 - 12:12:48) -  - GameNew::GameNew --> LEVEL CREATED
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLStateDefManager::createState --> STATE INDEX (0) TYPE GAMELEVEL PATH(./data/level1/level1_old.ini)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLStateDefManager::createState --> STATE INDEX (1) TYPE EXIT PATH(./data/exit/exit.ini)
+[INFO]  (16/10/2016 - 12:12:48) -  - GLStateDefManager::processStateDefFile --> ESTADOS PROCESADOS (2)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::processResourcesFilesInit --> PROCESS SOUND DEFINITION
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLSoundManager::processSoundManagerFile --> [1] sound id (EFFECTWAV1) extension (WAV) path (./data/sounds/sound1.wav)
+[INFO]  (16/10/2016 - 12:12:48) -  - GLSoundManager::processSoundManagerFile --> SONIDOS PROCESADOS (1)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::processResourcesFilesInit --> PROCESS TIFF DEFINITION
+[DEBUG] (16/10/2016 - 12:12:48) -  - TiffDefManager::processTiffDefFile --> [1] id [LAZY] ::= path [./data/asserts/ttf/lazy.ttf] size [28] color [255,255,255]
+[INFO]  (16/10/2016 - 12:12:48) -  - TiffDefManager::processTiffDefFile --> FUENTES TRUETYPE PROCESADAS (1)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::processResourcesFilesInit --> PROCESS ANIM ENTITY DEFINITION
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::processResourcesFilesInit --> PROCESS ANIM PARTICLE DEFINITION
+[WARN]  (16/10/2016 - 12:12:48) -  - GLAnimParticleDefManager::processAnimParticleDefManager IMAGE [PART_1] NOT FOUND
+[INFO]  (16/10/2016 - 12:12:48) -  - GLAnimParticleDefManager::processAnimParticleDefManager IMAGE [IDLE] ::= 4
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLAnimParticleDefManager::processAnimParticleDefManager -->[1] INSERTED PARTICLE [PARTICLE_1]
+[INFO]  (16/10/2016 - 12:12:48) -  - GLAnimParticleDefManager::processAnimParticleDefManager --> PARTICULAS PROCESADAS (1)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::processResourcesFilesInit --> PROCESS ENTITY DEFINITION
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLEntityDefManager::processEntityDefinitionFile --> [1] ELEMENTO 1 (TILE_ENTITY) INSERTADO IMAGE [MAP_1] ::= 2
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLEntityDefManager::processEntityDefinitionFile --> [2] ELEMENTO 200 (ACTOR_ENTITY) INSERTADO IMAGE [PLAYER_1] ::= 3
+[INFO]  (16/10/2016 - 12:12:48) -  - GLEntityDefManager::processEntityDefinitionFile --> NUM ELEMENTOS INSERTADOS (2)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  PRINT GLOBAL INI
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  TITLE:           (SinistarEngine.0.002.00)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams --> PROFILE PARAMS:
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  LOG LEVEL:       (1)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  LOG CHANNEL:     (0)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  PROFILE SWITCH:  (0)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  TAS SWITCH:      (0)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  TOGGLE COLL:     (1)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  TOGGLE PLAYER:   (1)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams --> SCREEN PARAMS:
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  SCREEN W:        (640)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  SCREEN H:        (512)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  RED__RGB:        (8)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  GREENRGB:        (8)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  BLUE_RGB:        (8)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  D.D.BSCR:        (1)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  SCREEN D:        (16)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  FRAMERRATE:      (60)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams --> SOUND PARAMS:
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  S.FREC:          (22050)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  S.FORM:          (0)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  S.CHAN:          (2)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  S.SAMPLE:        (4096)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams --> KEYS FIRST PLAYER:
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY UP     :     (1)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY DOWN   :     (2)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY LEFT   :     (3)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY RIGHT  :     (4)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  SHOOT      :     (5)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  CHGWEAPON  :     (6)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY EXIT   :     (8)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY ESC    :     (7)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY RETURN :     (9)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams --> KEYS SECOND PLAYER:
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY UP     :     (1)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY DOWN   :     (2)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY LEFT   :     (3)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY RIGHT  :     (4)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  SHOOT      :     (5)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  CHGWEAPON  :     (6)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY EXIT   :     (8)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY ESC    :     (7)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY RETURN :     (9)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams --> KEYS THIRD PLAYER:
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY UP     :     (1)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY DOWN   :     (2)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY LEFT   :     (3)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY RIGHT  :     (4)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  SHOOT      :     (5)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  CHGWEAPON  :     (6)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY EXIT   :     (8)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY ESC    :     (7)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY RETURN :     (9)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams --> KEYS FOURTH PLAYER:
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY UP     :     (1)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY DOWN   :     (2)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY LEFT   :     (3)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY RIGHT  :     (4)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  SHOOT      :     (5)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  CHGWEAPON  :     (6)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY EXIT   :     (8)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY ESC    :     (7)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  KEY RETURN :     (9)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams --> ADVANCED INPUT CONTROL (KEY+MOUSE):
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  FLAGMOUSE (ON/OFF) :     (0)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams --> VAR GENERAL GAME BEHAVIOUR:
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  INIT STATE :     (0)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  ACT PLAYER :     (1)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  DELAYSHOOT :     (2) frames
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  DELAYENEMY :     (20) frames
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLInit::printGlobalFileParams -->  PRINT GLOBAL FIN
+[INFO]  (16/10/2016 - 12:12:48) -  - ############################################
+[INFO]  (16/10/2016 - 12:12:48) -  - SINISTAR 2.00.001.1  BEGIN                  
+[INFO]  (16/10/2016 - 12:12:48) -  - ############################################
+[INFO]  (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESWindow  --> INIT GL11
+[INFO]  (16/10/2016 - 12:12:48) -  - GLLaunchSystemsGL11::initOpenGLESWindow  --> INIT PERSPECTIVE ORTHO GL11
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLStateManager::startStateManager --> CARGANDO ESTADO [0]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameNew::Start --> Cargando nivel Type(2): LEVEL State(1): START Load data from: ./data/level1/level1_old.ini
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processGameLevelDef --> INI
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelStaticEntities --> Processed Static Entities Level 0
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelCollitionRow statical coll array --> [64,64,960,64,960,704,64,704]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [960.000000,64.000000] m1 [64.000000,64.000000] normal [-0.000000,-1.000000] UP
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [960.000000,704.000000] m1 [960.000000,64.000000] normal [-1.000000,-0.000000] RIGHT
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [64.000000,704.000000] m1 [960.000000,704.000000] normal [-0.000000,1.000000] DOWN
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [64.000000,64.000000] m1 [64.000000,704.000000] normal [1.000000,-0.000000] LEFT
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelCollitionRow --> Processed Static Collitions Level 0
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelCollitionRow statical coll array --> [256,64,320,64,320,384,256,384]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [320.000000,64.000000] m1 [256.000000,64.000000] normal [-0.000000,-1.000000] UP
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [320.000000,384.000000] m1 [320.000000,64.000000] normal [-1.000000,-0.000000] RIGHT
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [256.000000,384.000000] m1 [320.000000,384.000000] normal [-0.000000,1.000000] DOWN
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [256.000000,64.000000] m1 [256.000000,384.000000] normal [1.000000,-0.000000] LEFT
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelCollitionRow --> Processed Static Collitions Level 0
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelCollitionRow statical coll array --> [448,384,576,384,576,448,512,448,512,704,448,704]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [576.000000,384.000000] m1 [448.000000,384.000000] normal [-0.000000,-1.000000] UP
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [576.000000,448.000000] m1 [576.000000,384.000000] normal [-1.000000,-0.000000] RIGHT
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [512.000000,448.000000] m1 [576.000000,448.000000] normal [-0.000000,1.000000] DOWN
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [512.000000,704.000000] m1 [512.000000,448.000000] normal [-1.000000,-0.000000] RIGHT
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [448.000000,704.000000] m1 [512.000000,704.000000] normal [-0.000000,1.000000] DOWN
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [448.000000,384.000000] m1 [448.000000,704.000000] normal [1.000000,-0.000000] LEFT
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelCollitionRow --> Processed Static Collitions Level 0
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelCollitionRow statical coll array --> [704,64,768,64,768,384,704,384]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [768.000000,64.000000] m1 [704.000000,64.000000] normal [-0.000000,-1.000000] UP
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [768.000000,384.000000] m1 [768.000000,64.000000] normal [-1.000000,-0.000000] RIGHT
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [704.000000,384.000000] m1 [768.000000,384.000000] normal [-0.000000,1.000000] DOWN
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelOrientationCollRow --> m2 [704.000000,64.000000] m1 [704.000000,384.000000] normal [1.000000,-0.000000] LEFT
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelCollitionRow --> Processed Static Collitions Level 0
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processLevelDynamicEntities --> Processed Dynamic Entities Level 0
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processRoles --> Processed Roles
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processNumPlayer --> Num Players [3]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processNumPlayer --> Act Player [1]
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLObjectManagerNew::processPlayerDef --> PLAYER 0 [ID 200] x:64.000000 y:64.000000 level:0.000000
+[DEBUG] (16/10/2016 - 12:12:48) -  - [ENTITY-PLAYER] GLObjectManagerPlayer::processElementDef --> ACTOR_ENTITY
+[DEBUG] (16/10/2016 - 12:12:48) -  - [ENTITY-PLAYER] GLObjectManagerPlayer::processElementDef --> (LIMITS)[0 0 64 0 64 64 0 64]
+[DEBUG] (16/10/2016 - 12:12:48) -  - [ENTITY-PLAYER] GLObjectManagerPlayer::processElementDef --> (SHAPE)[0 0 64 0 64 64 0 64]
+[DEBUG] (16/10/2016 - 12:12:48) -  - [ENTITY-PLAYER] GLObjectManagerPlayer::processElementDef --> x:64.000000
+[DEBUG] (16/10/2016 - 12:12:48) -  - [ENTITY-PLAYER] GLObjectManagerPlayer::processElementDef --> y:64.000000
+[WARN]  (16/10/2016 - 12:12:48) -  - GLObjectManagerPlayer::processElementDef --> REFERENCIA ENTIDAD (0300) NO ENCONTRADA
+[INFO]  (16/10/2016 - 12:12:48) -  - MemManagerNew::setPlayer --> player 1
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLObjectManagerNew::processPlayerDef --> PLAYER 1 [ID 200] x:896.000000 y:64.000000 level:0.000000
+[DEBUG] (16/10/2016 - 12:12:48) -  - [ENTITY-PLAYER] GLObjectManagerPlayer::processElementDef --> ACTOR_ENTITY
+[DEBUG] (16/10/2016 - 12:12:48) -  - [ENTITY-PLAYER] GLObjectManagerPlayer::processElementDef --> (LIMITS)[0 0 64 0 64 64 0 64]
+[DEBUG] (16/10/2016 - 12:12:48) -  - [ENTITY-PLAYER] GLObjectManagerPlayer::processElementDef --> (SHAPE)[0 0 64 0 64 64 0 64]
+[DEBUG] (16/10/2016 - 12:12:48) -  - [ENTITY-PLAYER] GLObjectManagerPlayer::processElementDef --> x:64.000000
+[DEBUG] (16/10/2016 - 12:12:48) -  - [ENTITY-PLAYER] GLObjectManagerPlayer::processElementDef --> y:64.000000
+[WARN]  (16/10/2016 - 12:12:48) -  - GLObjectManagerPlayer::processElementDef --> REFERENCIA ENTIDAD (0300) NO ENCONTRADA
+[INFO]  (16/10/2016 - 12:12:48) -  - MemManagerNew::setPlayer --> player 2
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLObjectManagerNew::processPlayerDef --> PLAYER 2 [ID 200] x:896.000000 y:640.000000 level:0.000000
+[DEBUG] (16/10/2016 - 12:12:48) -  - [ENTITY-PLAYER] GLObjectManagerPlayer::processElementDef --> ACTOR_ENTITY
+[DEBUG] (16/10/2016 - 12:12:48) -  - [ENTITY-PLAYER] GLObjectManagerPlayer::processElementDef --> (LIMITS)[0 0 64 0 64 64 0 64]
+[DEBUG] (16/10/2016 - 12:12:48) -  - [ENTITY-PLAYER] GLObjectManagerPlayer::processElementDef --> (SHAPE)[0 0 64 0 64 64 0 64]
+[DEBUG] (16/10/2016 - 12:12:48) -  - [ENTITY-PLAYER] GLObjectManagerPlayer::processElementDef --> x:64.000000
+[DEBUG] (16/10/2016 - 12:12:48) -  - [ENTITY-PLAYER] GLObjectManagerPlayer::processElementDef --> y:64.000000
+[WARN]  (16/10/2016 - 12:12:48) -  - GLObjectManagerPlayer::processElementDef --> REFERENCIA ENTIDAD (0300) NO ENCONTRADA
+[INFO]  (16/10/2016 - 12:12:48) -  - MemManagerNew::setPlayer --> player 3
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processPlayers --> Processed Player
+[INFO]  (16/10/2016 - 12:12:48) -  - GameLevelNew::processGameLevelDef LEVEL ./data/level1/level1_old.ini PROCESSED!
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameLevelNew::processGameLevelDef --> FIN
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLCameraNew::calculateIniPos --> POSICIONAMIENTO INICIAL DE LA CAMARA - INI
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLCameraNew::calculateIniPos --> size world (1024, 768); tiles scr (16, 12)
+[INFO]  (16/10/2016 - 12:12:48) -  - GLCameraNew::calculateIniPos --> size screen (640, 512) tiles scr (10, 8)
+[INFO]  (16/10/2016 - 12:12:48) -  - GLCameraNew::calculateIniPos --> Pos Ini player Player (64.000000, 64.000000) - Ventana de muestra (0, 0) x (9, 7) ref (0.000000, 0.000000)
+[INFO]  (16/10/2016 - 12:12:48) -  - GLCameraNew::calculateIniPos --> size_screen (640, 512) - size_world (1024, 768)  =  deff (0.000000, 0.000000)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GLGameLogic::Init --> INIT PLAYER ID [1] GLOBAL SCRIPTS GAMEPLAY ID:(GAME_1) COLLITION ID:(COLL_1) IA ID:(IA_1)
+[DEBUG] (16/10/2016 - 12:12:48) -  - GameNew::Start --> clock::start
+[DEBUG] (16/10/2016 - 12:12:51) -  - GLStateManager::getEvent --> GET RESUME FROM SDL ENGINE (RETORNAR AL NIVEL DESDE LA PANTALLA PRINCIPAL)
+[INFO]  (16/10/2016 - 12:12:51) -  - GLStateManager::changeStateFromStateManager --> STATE RESUME
+[DEBUG] (16/10/2016 - 12:12:51) -  - GLStateManager::getEvent --> GET QUIT FROM SDL ENGINE (FIN DEL PROCESO)
+[INFO]  (16/10/2016 - 12:12:51) -  - GLStateManager::changeStateFromStateManager --> STATE END
+[DEBUG] (16/10/2016 - 12:12:51) -  - GLStateManager::processUpdateStateManager --> END GAME [0]
+[DEBUG] (16/10/2016 - 12:12:51) -  - GLLaunchSystemsGL11::getEvents --> GET KEY (12) FROM STATE_MANAGER (1)
+[INFO]  (16/10/2016 - 12:12:51) -  - MemManagerNew::deleteLevels --> LEVEL DATA DELETED
+[INFO]  (16/10/2016 - 12:12:51) -  - MemManagerNew::deletePlayers --> PLAYERS DELETED
+[INFO]  (16/10/2016 - 12:12:51) -  - GLLaunchSystemsGL11::getEvents --> QUIT EVENT. EXIT APP
+[INFO]  (16/10/2016 - 12:12:51) -  - ############################################
+[INFO]  (16/10/2016 - 12:12:51) -  - SINISTAR 2.00.001.1  END                    
+[INFO]  (16/10/2016 - 12:12:51) -  - ############################################
+[INFO]  (16/10/2016 - 12:12:51) -  - GLStateManager::~GLStateManager --> FINISHED
+[INFO]  (16/10/2016 - 12:12:51) -  - MemManager::~MemManagerNew() --> MEMORY MANAGEMENT FINISHED! 

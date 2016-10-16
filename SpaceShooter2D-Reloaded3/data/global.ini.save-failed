@@ -1,0 +1,118 @@
+#Datos generales de la aplicación
+
+#title_engine
+titleEng = SinistarEngine.0.001.01
+
+#Elementos de parseo y profiling
+######################################################
+#nivel de log 1=DEBUG 2=INFO 3=WARN
+log = 1
+#canal de salida de logs 0=file; 1=file+console
+logType = 0
+#activar motor de profile
+profType = 0
+#activar motor comandos automáticos
+tasType = 0
+#activar consola
+consoleType = 0
+#presentar diferentes mapas de comportamiento #1 (COLL) #2 (LIGHT) #3 (COLL+LIGHT)
+toggleColl = 1
+#cambiar entre jugadores.
+togglePlayer = 1
+######################################################
+
+
+#Elementos de comportamiento visual de la aplicacion
+#screen
+######################################################
+#screen_w = 320
+#screen_h = 240
+screen_w = 640
+screen_h = 512
+#screen_w = 640
+#screen_h = 480
+#screen_w = 800
+#screen_h = 600
+#screen_w = 1152
+#screen_h = 854
+#screen_w = 1024
+#screen_h = 768
+screen_d = 16
+
+red_rgb = 8
+green_rgb = 8
+blue_rgb = 8
+ddbuffer = 1
+
+#framerrate
+framerrate = 60
+delaybwshoot = 2
+delaybwenem = 20
+
+#initalstate
+initialState = 0
+#actplayer
+initialPlayer = 1
+#flags mouse (0=KEY/1=MOUSE)
+flagmouse = 0
+######################################################
+
+#sound
+######################################################
+sound_frecuency = 22050
+#sound format 0 (default)
+sound_format = 0
+#channels (1=mono, 2=stereo)
+sound_channel = 2
+sound_sample = 4096
+######################################################
+
+#keys (configuracion comandos player1)
+######################################################
+up_1 = 1
+down_1 = 2
+left_1 = 3
+right_1 = 4
+fire_1 = 5
+changeweapon_1 = 6
+esc_1 = 7
+exit_1 = 8
+return_1 = 9
+#####################################
+#keys (configuracion comandos player2)
+#####################################
+up_2 = 1
+down_2 = 2
+left_2 = 3
+right_2 = 4
+fire_2 = 5
+changeweapon_2 = 6
+esc_2 = 7
+exit_2 = 8
+return_2 = 9
+#####################################
+#keys (configuracion comandos player3)
+#####################################
+up_3 = 1
+down_3 = 2
+left_3 = 3
+right_3 = 4
+fire_3 = 5
+changeweapon_3 = 6
+esc_3 = 7
+exit_3 = 8
+return_3 = 9
+#####################################
+#keys (configuracion comandos player4)
+#####################################
+up_4 = 1
+down_4 = 2
+left_4 = 3
+right_4 = 4
+fire_4 = 5
+changeweapon_4 = 6
+esc_4 = 7
+exit_4 = 8
+return_4 = 9
+###############################################
+

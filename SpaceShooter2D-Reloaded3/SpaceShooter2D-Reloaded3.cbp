@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SpaceShooter2D-Reloaded3" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="data\scripts\;" />
+		<Build>
+			<Target title="SDL20GL11">
+				<Option output="bin/SDL20GL11/SpaceShooter2D-Reloaded3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/SDL20GL11/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-Wextra" />
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add option="-W -fpermissive" />
+					<Add option="-DSDL20 -DGL11 -DBOX2D -DPTHREAD" />
+					<Add directory="C:/workspaces/libs/GLEW-WIN32/include" />
+					<Add directory="C:/workspaces/workCodeblocks/SpaceShooter2D-Reloaded3" />
+					<Add directory="C:/workspaces/libs/SDL_2.0.3/SDL2-devel-2.0.3-mingw/SDL2-2.0.3/i686-w64-mingw32/include/SDL2" />
+					<Add directory="C:/workspaces/libs/SDL_2.0.3/SDL2_image-devel-2.0.0-mingw/SDL2_image-2.0.0/i686-w64-mingw32/include/SDL2" />
+					<Add directory="C:/workspaces/libs/SDL_2.0.3/SDL2_ttf-devel-2.0.12-mingw/SDL2_ttf-2.0.12/i686-w64-mingw32/include/SDL2" />
+					<Add directory="C:/workspaces/libs/SDL_2.0.3/SDL2_mixer-devel-2.0.0-mingw/SDL2_mixer-2.0.0/i686-w64-mingw32/include/SDL2" />
+					<Add directory="C:/workspaces/libs/Native_SDK-3.5/Builds/Include" />
+					<Add directory="C:/workspaces/workCodeblocks/GPH_SDK/include/LUA51" />
+					<Add directory="C:/workspaces/libs/pthreads-w32-2-9-1-release/Pre-built.2/include" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32" />
+					<Add option="-lSDL2main" />
+					<Add option="-lSDL2" />
+					<Add option="-lSDL2_image" />
+					<Add option="-lSDL2_mixer" />
+					<Add option="-lSDL2_ttf" />
+					<Add option="-llibEGL" />
+					<Add option="-llibGLES_CM" />
+					<Add option="-llua5.1" />
+					<Add library="C:\workspaces\libs\Native_SDK-3.5\Builds\Windows\x86_32\Lib\libEGL.lib" />
+					<Add library="C:\workspaces\libs\Native_SDK-3.5\Builds\Windows\x86_32\Lib\libGLES_CM.lib" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2-devel-2.0.3-mingw\SDL2-2.0.3\i686-w64-mingw32\lib\libSDL2.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2-devel-2.0.3-mingw\SDL2-2.0.3\i686-w64-mingw32\lib\libSDL2.dll.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2-devel-2.0.3-mingw\SDL2-2.0.3\i686-w64-mingw32\lib\libSDL2_test.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2-devel-2.0.3-mingw\SDL2-2.0.3\i686-w64-mingw32\lib\libSDL2main.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2_image-devel-2.0.0-mingw\SDL2_image-2.0.0\i686-w64-mingw32\lib\libSDL2_image.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2_image-devel-2.0.0-mingw\SDL2_image-2.0.0\i686-w64-mingw32\lib\libSDL2_image.dll.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2_mixer-devel-2.0.0-mingw\SDL2_mixer-2.0.0\i686-w64-mingw32\lib\libSDL2_mixer.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2_mixer-devel-2.0.0-mingw\SDL2_mixer-2.0.0\i686-w64-mingw32\lib\libSDL2_mixer.dll.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2_ttf-devel-2.0.12-mingw\SDL2_ttf-2.0.12\i686-w64-mingw32\lib\libSDL2_ttf.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2_ttf-devel-2.0.12-mingw\SDL2_ttf-2.0.12\i686-w64-mingw32\lib\libSDL2_ttf.dll.a" />
+					<Add library="C:\workspaces\workCodeblocks\GPH_SDK\lib\host\LUA51\lua5.1.lib" />
+					<Add library="C:\workspaces\workCodeblocks\GPH_SDK\lib\host\LUA51\lua51.lib" />
+					<Add library="C:\workspaces\libs\pthreads-w32-2-9-1-release\Pre-built.2\lib\x86\libpthreadGC2.a" />
+					<Add library="C:\workspaces\libs\pthreads-w32-2-9-1-release\Pre-built.2\lib\x86\libpthreadGCE2.a" />
+					<Add directory="C:/workspaces/workCodeblocks/GPH_SDK/lib/host/LUA51" />
+					<Add directory="C:/workspaces/libs/SDL_2.0.3/SDL2_image-devel-2.0.0-mingw/SDL2_image-2.0.0/i686-w64-mingw32/lib" />
+					<Add directory="C:/workspaces/libs/SDL_2.0.3/SDL2_mixer-devel-2.0.0-mingw/SDL2_mixer-2.0.0/i686-w64-mingw32/lib" />
+					<Add directory="C:/workspaces/libs/SDL_2.0.3/SDL2_ttf-devel-2.0.12-mingw/SDL2_ttf-2.0.12/i686-w64-mingw32/lib" />
+					<Add directory="C:/workspaces/libs/SDL_2.0.3/SDL2-devel-2.0.3-mingw/SDL2-2.0.3/i686-w64-mingw32/lib" />
+					<Add directory="C:/workspaces/libs/Native_SDK-3.5/Builds/Windows/x86_32/Lib" />
+					<Add directory="C:/workspaces/libs/pthreads-w32-2-9-1-release/Pre-built.2/lib/x86" />
+				</Linker>
+			</Target>
+			<Target title="SDL20GL30">
+				<Option output="bin/SDL20GL30/SpaceShooter2D-Reloaded3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/SDL20GL30/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="SDL12">
+				<Option output="bin/SDL12/SpaceShooter2D-Reloaded3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/SDL12/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ClockEngine.h" />
+		<Unit filename="ConfigFile.cpp" />
+		<Unit filename="ConfigFile.h" />
+		<Unit filename="EventMsg.h" />
+		<Unit filename="Excepctions.h" />
+		<Unit filename="GLAnimEntityDefManager.cpp" />
+		<Unit filename="GLAnimEntityDefManager.h" />
+		<Unit filename="GLAnimParticleDefManager.cpp" />
+		<Unit filename="GLAnimParticleDefManager.h" />
+		<Unit filename="GLAnimationDesc.h" />
+		<Unit filename="GLAnimationScript.h" />
+		<Unit filename="GLCameraNew.cpp" />
+		<Unit filename="GLCameraNew.h" />
+		<Unit filename="GLCollision.h">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLCollisionScript.cpp" />
+		<Unit filename="GLCollisionScript.h" />
+		<Unit filename="GLCursor.cpp" />
+		<Unit filename="GLCursor.h" />
+		<Unit filename="GLDynamicEntityNew.cpp">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLDynamicEntityNew.h">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLEnemy.h">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLEntityDefManager.cpp" />
+		<Unit filename="GLEntityDefManager.h" />
+		<Unit filename="GLEntityDefinition.h" />
+		<Unit filename="GLEntityNew.cpp" />
+		<Unit filename="GLEntityNew.h" />
+		<Unit filename="GLGameLogic.cpp" />
+		<Unit filename="GLGameLogic.h" />
+		<Unit filename="GLGamePlayScript.h" />
+		<Unit filename="GLHud.cpp">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLHud.h" />
+		<Unit filename="GLIAScript.h" />
+		<Unit filename="GLIO.h" />
+		<Unit filename="GLImage.cpp" />
+		<Unit filename="GLImage.h" />
+		<Unit filename="GLImageDef.h">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLImageFactoryManager.cpp" />
+		<Unit filename="GLImageFactoryManager.h" />
+		<Unit filename="GLInit.cpp" />
+		<Unit filename="GLInit.h" />
+		<Unit filename="GLInitParamEngine.cpp" />
+		<Unit filename="GLInitParamEngine.h" />
+		<Unit filename="GLLaunchSystems.h" />
+		<Unit filename="GLLaunchSystemsGL11.cpp" />
+		<Unit filename="GLLaunchSystemsGL11.h" />
+		<Unit filename="GLLuaScript.cpp" />
+		<Unit filename="GLLuaScript.h" />
+		<Unit filename="GLLuaScriptManager.cpp" />
+		<Unit filename="GLLuaScriptManager.h" />
+		<Unit filename="GLObjectManagerEnemy.cpp">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLObjectManagerEnemy.h">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLObjectManagerNew.cpp" />
+		<Unit filename="GLObjectManagerNew.h" />
+		<Unit filename="GLObjectManagerPlayer.cpp">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLObjectManagerPlayer.h">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLObjectManagerTile.cpp">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLObjectManagerTile.h">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLParticleDesc.h" />
+		<Unit filename="GLPlayer.h">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLPolygonGL11.cpp" />
+		<Unit filename="GLPolygonGL11.h" />
+		<Unit filename="GLRenderDynamicLevelGL11.cpp">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLRenderDynamicLevelGL11.h">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLRenderNew.cpp" />
+		<Unit filename="GLRenderNew.h" />
+		<Unit filename="GLRenderNewGL11.cpp">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLRenderNewGL11.h" />
+		<Unit filename="GLRenderStaticLevelGL11.cpp">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLRenderStaticLevelGL11.h">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="GLRole.h" />
+		<Unit filename="GLShaders.h" />
+		<Unit filename="GLSoundFile.h" />
+		<Unit filename="GLSoundManager.cpp" />
+		<Unit filename="GLSoundManager.h" />
+		<Unit filename="GLState.h" />
+		<Unit filename="GLStateDefManager.cpp" />
+		<Unit filename="GLStateDefManager.h" />
+		<Unit filename="GLStateManager.cpp" />
+		<Unit filename="GLStateManager.h" />
+		<Unit filename="GLTile.h" />
+		<Unit filename="GameLevelNew.cpp" />
+		<Unit filename="GameLevelNew.h" />
+		<Unit filename="GameNew.cpp" />
+		<Unit filename="GameNew.h" />
+		<Unit filename="GlobalNew.cpp" />
+		<Unit filename="GlobalNew.h" />
+		<Unit filename="Image.h">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="LogEngine.cpp" />
+		<Unit filename="LogEngine.h" />
+		<Unit filename="Main.cpp" />
+		<Unit filename="Main.h" />
+		<Unit filename="MemManagerNew.cpp" />
+		<Unit filename="MemManagerNew.h" />
+		<Unit filename="SDLImagen.cpp">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="SDLImagen.h">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="SDLTextureContainer.h">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="Stdafx.h" />
+		<Unit filename="TiffDefManager.cpp">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="TiffDefManager.h">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="TiffEngine.cpp">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="TiffEngine.h">
+			<Option target="SDL20GL11" />
+		</Unit>
+		<Unit filename="Utils.h" />
+		<Unit filename="data/animationDef.ini" />
+		<Unit filename="data/asserts/sinistar.ico" />
+		<Unit filename="data/asserts/ttf/lazy.ttf" />
+		<Unit filename="data/components2D.ini">
+			<Option virtualFolder="data/scripts/" />
+		</Unit>
+		<Unit filename="data/components2D_Final.ini" />
+		<Unit filename="data/doc/BITACORA_2015">
+			<Option target="SDL20GL11" />
+			<Option target="SDL20GL30" />
+		</Unit>
+		<Unit filename="data/doc/README.txt" />
+		<Unit filename="data/global.ini" />
+		<Unit filename="data/imageDef.ini" />
+		<Unit filename="data/level1/level1_old.ini" />
+		<Unit filename="data/level1/level1_old_1.ini" />
+		<Unit filename="data/lights.ini" />
+		<Unit filename="data/logs/Sin2DEng.log" />
+		<Unit filename="data/particleDef.ini" />
+		<Unit filename="data/script.ini" />
+		<Unit filename="data/scripts/mixed.lua" />
+		<Unit filename="data/scripts/simple.lua" />
+		<Unit filename="data/sounds.ini" />
+		<Unit filename="data/stateDef.ini" />
+		<Unit filename="data/tiff.ini" />
+		<Unit filename="resource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
